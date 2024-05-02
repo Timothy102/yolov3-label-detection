@@ -4,7 +4,7 @@ Hey, team. This is beyond the scope of my 2-hour task.
 
 ### Worfklow
 
-Yolov3 sucked for detecting boxes and corresponding labels and/or might require a fine-tuning solution. 
+Yolov3 sucked for detecting boxes and corresponding labels largely because it was trained on the COCO dataset and/or might require a fine-tuning solution. We can always do it.
 
 Here's what I did: 
 
