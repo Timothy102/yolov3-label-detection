@@ -44,7 +44,7 @@ Closeness to right side: 4.980000000000004 %
 
 ![Image Outlining the Box and the Label](outline.png)
 
-### Left to do from here
+### Next Steps From Here:
 
 1. Use Apple Photos Kit(Jaden's idea) to capture the box taken via phone.
 2. Build a real-time pipeline that connects to our mainframe notification system.
