@@ -33,3 +33,5 @@ Or bring any other image locally.
 ```
 python3 main.py --display=0
 ```
+
+![Image Outlining the Box and the Label](outline.png)
