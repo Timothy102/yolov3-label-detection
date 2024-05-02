@@ -34,4 +34,10 @@ Or bring any other image locally.
 python3 main.py --display=0
 ```
 
+### Resulting Example
+
+Box dimensions (edges): 542 237
+Closeness to bottom side: 9.280000000000001 %
+Closeness to right side: 4.980000000000004 %
+
 ![Image Outlining the Box and the Label](outline.png)
